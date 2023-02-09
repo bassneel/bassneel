@@ -1,5 +1,6 @@
-Hi, I’m @bassneel
+### Bass Neel
 
+- Student at University of Tennessee at Knoxville 
 - Geographic Information Systems
 
 <!---
