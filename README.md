@@ -1,7 +1,9 @@
 ### Bass Neel
 
-- Student at University of Tennessee at Knoxville 
-- Geographic Information Systems
+## Education
+
+- [University of Tennessee, Knoxville](https://www.utk.edu) 
+    - Geographic Information Systems
 
 <!---
 bassneel/bassneel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
