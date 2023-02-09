@@ -1,5 +1,7 @@
 ### Bass Neel
 
+![Follower Badge](https://shields.io/github/followers/:user?label=Follow)
+
 ## Education
 
 - [University of Tennessee, Knoxville](https://www.utk.edu) 
