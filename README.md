@@ -1,6 +1,7 @@
 ### Bass Neel
 
-[![Follower Badge](https://img.shields.io/github/followers/:bassneel?label=Follow)](https://github.com/bassneel/bassneel)
+[![GitHub Badge](https://img.shields.io/github/followers/bassneel?style=social)](https://github.com/bassneel?tab=followers)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/bassneel)
 
 ## Education
 
