@@ -29,7 +29,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassneel&hide_langs_below=10) -->
 
 ---
-### Premier League Table
+### [Premier League Table](https://www.premierleague.com/tables)
 | Position | Club                    | MP | Points   |
 |----------|-------------------------|----|----------|
 | 1        | Arsenal                 | 23 | 54       |
