@@ -2,7 +2,9 @@
 [![GitHub Badge](https://img.shields.io/github/followers/bassneel?style=social)](https://github.com/bassneel?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/bassneel)
 
-[bassneel.github.io](https://bassneel.github.io/) 
+[My personal website](https://bassneel.github.io/)
+
+[BassMap](https://bassneel.github.io/bassmap/)
 
 ---
 
@@ -32,12 +34,12 @@
 ### [Premier League Table](https://www.premierleague.com/tables)
 | Position | Club                    | MP | Points   |
 |----------|-------------------------|----|----------|
-| 1        | Arsenal                 | 23 | 54       |
-| 2        | Manchester City         | 24 | 52       |
+| 1        | Arsenal                 | 24 | 57       |
+| 2        | Manchester City         | 25 | 55       |
 | 3        | **_Manchester United_** | 24 | **_49_** |
-| 4        | Tottenham               | 24 | 42       |
+| 4        | Tottenham               | 25 | 45       |
 | 5        | Newcastle United        | 23 | 41       |
-| 6        | Fulham                  | 24 | 38       |
+| 6        | Fulham                  | 25 | 39       |
 
 #### **_GGMU_**
 
