@@ -20,7 +20,7 @@
 - [Site Selection Using GIS: One Knoxville SC Training Ground](https://www.linkedin.com/pulse/site-selection-gis-prospective-one-knoxville-sc-training-bass-neel/)
 
 ![One Knox Collective](https://logos-world.net/wp-content/uploads/2021/10/One-Knoxville-Sporting-Club-Logo.png)
-- [Abandoned Mine Land Reclamation in the Cumberland Plateau (Active)](https://www.sierraclub.org/articles/2022/06/renew-act-would-help-coal-communities-clean-and-thrive)
+- [Abandoned Mine Land Reclamation in the Cumberland Plateau](https://www.sierraclub.org/articles/2022/06/renew-act-would-help-coal-communities-clean-and-thrive)
 
 ![Sierra Club](https://www.sierraclub.org/sites/default/themes/custom/bootpt/images/chapters/tennessee.png)
 
