@@ -34,12 +34,12 @@
 ### [Premier League Table](https://www.premierleague.com/tables)
 | Position | Club                    | MP | Points   |
 |----------|-------------------------|----|----------|
-| 1        | Arsenal                 | 28 | 69       |
-| 2        | Manchester City         | 27 | 61       |
-| 3        | **_Manchester United_** | 26 | **_50_** |
-| 4        | Tottenham               | 28 | 49       |
-| 5        | Newcastle United        | 26 | 47       |
-| 6        | Liverpool               | 26 | 42       |
+| 1        | Arsenal                 | 33 | 70       |
+| 2        | Manchester City         | 33 | 70       |
+| 3        | **_Manchester United_** | 33 | **_58_** |
+| 4        | Aston Villa             | 33 | 58       |
+| 5        | Liverpool               | 33 | 55       |
+| 6        | Brighton                | 33 | 50       |
 
 #### **_GGMU_**
 
